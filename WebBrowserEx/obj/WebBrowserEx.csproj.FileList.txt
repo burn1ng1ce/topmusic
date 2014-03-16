@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BurningICE.WebBrowserEx.WebBrowserEx.resources
+obj\Debug\WebBrowserEx.csproj.GenerateResource.Cache
+bin\Debug\WebBrowserEx.dll
+bin\Debug\WebBrowserEx.pdb
+obj\Debug\WebBrowserEx.dll
+obj\Debug\WebBrowserEx.pdb

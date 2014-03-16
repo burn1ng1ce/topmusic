@@ -1,0 +1,12 @@
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\obj\Debug\WebBrowserEx.Form1.resources
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\obj\Debug\WebBrowserTest.Properties.Resources.resources
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\obj\Debug\WebBrowserTest.csproj.GenerateResource.Cache
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\bin\Debug\WebBrowserTest.exe
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\bin\Debug\WebBrowserTest.pdb
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\obj\Debug\WebBrowserTest.exe
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\obj\Debug\WebBrowserTest.pdb
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\obj\Debug\WebBrowserTest.csprojResolveAssemblyReference.cache
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\bin\Debug\Interop.SHDocVw.dll
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\bin\Debug\WebBrowserEx.dll
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\bin\Debug\WebBrowserEx.pdb
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserTest\bin\Debug\WebBrowserTest.exe.config

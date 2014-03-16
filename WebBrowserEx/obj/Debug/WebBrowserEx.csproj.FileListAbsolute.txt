@@ -1,0 +1,10 @@
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserEx\obj\Debug\WebBrowserEx.pdb
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserEx\obj\Debug\BurningICE.WebBrowserEx.WebBrowserEx.resources
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserEx\obj\Debug\WebBrowserEx.csproj.GenerateResource.Cache
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserEx\obj\Debug\WebBrowserEx.dll
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserEx\obj\Debug\Interop.SHDocVw.dll
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserEx\obj\Debug\WebBrowserEx.csproj.ResolveComReference.cache
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserEx\bin\Debug\WebBrowserEx.dll
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserEx\bin\Debug\WebBrowserEx.pdb
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserEx\bin\Debug\Interop.SHDocVw.dll
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\WebBrowserEx\bin\Debug\Microsoft.mshtml.dll

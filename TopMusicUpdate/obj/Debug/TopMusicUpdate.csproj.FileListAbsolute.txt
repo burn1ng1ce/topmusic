@@ -1,0 +1,11 @@
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusicUpdate\bin\Debug\TopMusicUpdate.exe.config
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusicUpdate\obj\Debug\TopMusicUpdate.Properties.Resources.resources
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusicUpdate\obj\Debug\TopMusicUpdate.csproj.GenerateResource.Cache
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusicUpdate\bin\Debug\TopMusicUpdate.exe
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusicUpdate\bin\Debug\TopMusicUpdate.pdb
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusicUpdate\obj\Debug\TopMusicUpdate.exe
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusicUpdate\obj\Debug\TopMusicUpdate.pdb
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusic\bin\Debug\TopMusicUpdate.exe.config
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusic\bin\Debug\TopMusicUpdate.exe
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusic\bin\Debug\TopMusicUpdate.pdb
+H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusicUpdate\obj\Debug\TopMusicUpdate.csprojResolveAssemblyReference.cache

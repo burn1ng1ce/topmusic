@@ -1,0 +1,267 @@
+03-15 19:02:17 DEBUG Program - process: #2480, BtwRSupportService, machine: .
+03-15 19:02:17 DEBUG Program - process: #980, nvvsvc, machine: .
+03-15 19:02:17 DEBUG Program - process: #32272, chrome, machine: .
+03-15 19:02:17 DEBUG Program - process: #49844, ImeBroker, machine: .
+03-15 19:02:17 DEBUG Program - process: #3932, AliIM, machine: .
+03-15 19:02:17 DEBUG Program - process: #52984, SHRes, machine: .
+03-15 19:02:17 DEBUG Program - process: #99392, IntelliTrace, machine: .
+03-15 19:02:17 DEBUG Program - process: #6792, rundll32, machine: .
+03-15 19:02:17 DEBUG Program - process: #2940, vmware-usbarbitrator64, machine: .
+03-15 19:02:17 DEBUG Program - process: #5696, LiveComm, machine: .
+03-15 19:02:17 DEBUG Program - process: #112288, chrome, machine: .
+03-15 19:02:17 DEBUG Program - process: #360, smss, machine: .
+03-15 19:02:17 DEBUG Program - process: #876, TpKnrres, machine: .
+03-15 19:02:17 DEBUG Program - process: #1356, nvtray, machine: .
+03-15 19:02:17 DEBUG Program - process: #1552, WUDFHost, machine: .
+03-15 19:02:17 DEBUG Program - process: #5884, taskhostex, machine: .
+03-15 19:02:17 DEBUG Program - process: #12384, SearchProtocolHost, machine: .
+03-15 19:02:17 DEBUG Program - process: #111276, OUTLOOK, machine: .
+03-15 19:02:17 DEBUG Program - process: #1940, svchost, machine: .
+03-15 19:02:17 DEBUG Program - process: #560, csrss, machine: .
+03-15 19:02:17 DEBUG Program - process: #21212, MSBuildTaskHost, machine: .
+03-15 19:02:17 DEBUG Program - process: #5876, SynTPEnh, machine: .
+03-15 19:02:17 DEBUG Program - process: #1344, sppsvc, machine: .
+03-15 19:02:17 DEBUG Program - process: #2328, AlipaySecSvc, machine: .
+03-15 19:02:17 DEBUG Program - process: #940, ibmpmsvc, machine: .
+03-15 19:02:17 DEBUG Program - process: #99084, TopMusicUpdate.vshost, machine: .
+03-15 19:02:17 DEBUG Program - process: #2120, spoolsv, machine: .
+03-15 19:02:17 DEBUG Program - process: #2512, CxAudMsg64, machine: .
+03-15 19:02:17 DEBUG Program - process: #49988, chrome, machine: .
+03-15 19:02:17 DEBUG Program - process: #2904, vmnetdhcp, machine: .
+03-15 19:02:17 DEBUG Program - process: #16496, taskhost, machine: .
+03-15 19:02:17 DEBUG Program - process: #1720, WUDFHost, machine: .
+03-15 19:02:17 DEBUG Program - process: #96784, chrome, machine: .
+03-15 19:02:17 DEBUG Program - process: #73860, audiodg, machine: .
+03-15 19:02:17 DEBUG Program - process: #111564, chrome, machine: .
+03-15 19:02:17 DEBUG Program - process: #4272, conhost, machine: .
+03-15 19:02:17 DEBUG Program - process: #99224, msvsmon, machine: .
+03-15 19:02:17 DEBUG Program - process: #6436, TpShocks, machine: .
+03-15 19:02:17 DEBUG Program - process: #524, svchost, machine: .
+03-15 19:02:17 DEBUG Program - process: #7024, EvernoteClipper, machine: .
+03-15 19:02:17 DEBUG Program - process: #33224, chrome, machine: .
+03-15 19:02:17 DEBUG Program - process: #6628, BaiduAnTray, machine: .
+03-15 19:02:18 DEBUG Program - process: #124, BaiduAnSvc, machine: .
+03-15 19:02:18 DEBUG Program - process: #114580, TopMusic, machine: .
+03-15 19:02:18 DEBUG Program - process: #2876, MsMpEng, machine: .
+03-15 19:02:18 DEBUG Program - process: #708, winlogon, machine: .
+03-15 19:02:18 DEBUG Program - process: #1692, knbcenter, machine: .
+03-15 19:02:18 DEBUG Program - process: #4252, lpdagent, machine: .
+03-15 19:02:18 DEBUG Program - process: #108724, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #900, svchost, machine: .
+03-15 19:02:18 DEBUG Program - process: #108264, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #2276, vmware-authd, machine: .
+03-15 19:02:18 DEBUG Program - process: #11928, AcroRd32, machine: .
+03-15 19:02:18 DEBUG Program - process: #2668, SettingsService, machine: .
+03-15 19:02:18 DEBUG Program - process: #6804, rundll32, machine: .
+03-15 19:02:18 DEBUG Program - process: #1484, WUDFHost, machine: .
+03-15 19:02:18 DEBUG Program - process: #6408, igfxpers, machine: .
+03-15 19:02:18 DEBUG Program - process: #6208, SynTPLpr, machine: .
+03-15 19:02:18 DEBUG Program - process: #5616, DCSHelper, machine: .
+03-15 19:02:18 DEBUG Program - process: #45360, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #49936, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #488, svchost, machine: .
+03-15 19:02:18 DEBUG Program - process: #6988, editplus, machine: .
+03-15 19:02:18 DEBUG Program - process: #6756, dopva, machine: .
+03-15 19:02:18 DEBUG Program - process: #1076, svchost, machine: .
+03-15 19:02:18 DEBUG Program - process: #2848, conhost, machine: .
+03-15 19:02:18 DEBUG Program - process: #3904, upeksvr, machine: .
+03-15 19:02:18 DEBUG Program - process: #2184, svchost, machine: .
+03-15 19:02:18 DEBUG Program - process: #2756, svchost, machine: .
+03-15 19:02:18 DEBUG Program - process: #24512, conhost, machine: .
+03-15 19:02:18 DEBUG Program - process: #2644, conhost, machine: .
+03-15 19:02:18 DEBUG Program - process: #2840, synergyc, machine: .
+03-15 19:02:18 DEBUG Program - process: #2444, AppleMobileDeviceService, machine: .
+03-15 19:02:18 DEBUG Program - process: #91092, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #3512, svchost, machine: .
+03-15 19:02:18 DEBUG Program - process: #16624, MSBuild, machine: .
+03-15 19:02:18 DEBUG Program - process: #2636, HPSIsvc, machine: .
+03-15 19:02:18 DEBUG Program - process: #2832, vmnat, machine: .
+03-15 19:02:18 DEBUG Program - process: #99580, conhost, machine: .
+03-15 19:02:18 DEBUG Program - process: #52864, SHPlayer, machine: .
+03-15 19:02:18 DEBUG Program - process: #111372, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #3612, svchost, machine: .
+03-15 19:02:18 DEBUG Program - process: #656, csrss, machine: .
+03-15 19:02:18 DEBUG Program - process: #28520, vmware-unity-helper, machine: .
+03-15 19:02:18 DEBUG Program - process: #13048, vmware-tray, machine: .
+03-15 19:02:18 DEBUG Program - process: #1396, WUDFHost, machine: .
+03-15 19:02:18 DEBUG Program - process: #2732, SASrv, machine: .
+03-15 19:02:18 DEBUG Program - process: #2540, DCService, machine: .
+03-15 19:02:18 DEBUG Program - process: #1240, nvvsvc, machine: .
+03-15 19:02:18 DEBUG Program - process: #648, wininit, machine: .
+03-15 19:02:18 DEBUG Program - process: #844, svchost, machine: .
+03-15 19:02:18 DEBUG Program - process: #107776, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #112744, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #4632, PWMDBSVC, machine: .
+03-15 19:02:18 DEBUG Program - process: #6156, SynTPHelper, machine: .
+03-15 19:02:18 DEBUG Program - process: #3484, AcroRd32, machine: .
+03-15 19:02:18 DEBUG Program - process: #2452, WmiPrvSE, machine: .
+03-15 19:02:18 DEBUG Program - process: #1228, nvxdsync, machine: .
+03-15 19:02:18 DEBUG Program - process: #83632, vmware-vmx, machine: .
+03-15 19:02:18 DEBUG Program - process: #3196, vmware-hostd, machine: .
+03-15 19:02:18 DEBUG Program - process: #90268, SearchFilterHost, machine: .
+03-15 19:02:18 DEBUG Program - process: #9036, SoHuVA, machine: .
+03-15 19:02:18 DEBUG Program - process: #5384, WmiPrvSE, machine: .
+03-15 19:02:18 DEBUG Program - process: #5956, explorer, machine: .
+03-15 19:02:18 DEBUG Program - process: #428, dwm, machine: .
+03-15 19:02:18 DEBUG Program - process: #111860, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #5548, SearchIndexer, machine: .
+03-15 19:02:18 DEBUG Program - process: #2592, dasHost, machine: .
+03-15 19:02:18 DEBUG Program - process: #7996, devenv, machine: .
+03-15 19:02:18 DEBUG Program - process: #29440, vmware, machine: .
+03-15 19:02:18 DEBUG Program - process: #788, lsass, machine: .
+03-15 19:02:18 DEBUG Program - process: #2584, PresentationFontCache, machine: .
+03-15 19:02:18 DEBUG Program - process: #112508, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #110340, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #4876, TSVNCache, machine: .
+03-15 19:02:18 DEBUG Program - process: #780, services, machine: .
+03-15 19:02:18 DEBUG Program - process: #6124, RuntimeBroker, machine: .
+03-15 19:02:18 DEBUG Program - process: #1000, nvSCPAPISvr, machine: .
+03-15 19:02:18 DEBUG Program - process: #1196, svchost, machine: .
+03-15 19:02:18 DEBUG Program - process: #1348, loctaskmgr, machine: .
+03-15 19:02:18 DEBUG Program - process: #2376, AllVideoLUS, machine: .
+03-15 19:02:18 DEBUG Program - process: #2768, synergyd, machine: .
+03-15 19:02:18 DEBUG Program - process: #19512, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #6308, fmapp, machine: .
+03-15 19:02:18 DEBUG Program - process: #33692, chrome, machine: .
+03-15 19:02:18 DEBUG Program - process: #4, System, machine: .
+03-15 19:02:18 DEBUG Program - process: #6504, bjcacertd_ft11, machine: .
+03-15 19:02:18 DEBUG Program - process: #0, Idle, machine: .
+03-15 19:03:51 DEBUG Program - process: #114580, TopMusic, machine: .
+03-15 19:20:22 INFO Program - topmusic-updater started.
+03-15 19:21:08 ERROR HttpUtil - WebException while get from http://rpcbeta.networkbench.com/liaoxj/updates/config.xml, exception status: Timeout:操作超时
+03-15 19:22:30 INFO Program - topmusic-updater started.
+03-15 19:24:28 INFO Program - topmusic-updater started.
+03-15 19:26:15 INFO Program - topmusic-updater started.
+03-15 19:26:47 INFO UpdateWorker - downloading TopMusic_update_1.1.0.0.zip for update...
+03-15 19:27:02 ERROR UpdateWorker - failed to download TopMusic_update_1.1.0.0.zip
+03-15 19:28:17 INFO Program - topmusic-updater started.
+03-15 19:28:28 INFO UpdateWorker - downloading TopMusic_update_1.1.0.0.zip for update...
+03-15 19:29:00 ERROR UpdateWorker - md5 not matches for TopMusic_update_1.1.0.0.zip, expected: f8f72f3f381f73adb7d3625b7cd7e966
+, actual: f8f72f3f381f73adb7d3625b7cd7e966
+03-15 19:30:32 INFO Program - topmusic-updater started.
+03-15 19:30:42 INFO UpdateWorker - downloading TopMusic_update_1.1.0.0.zip for update...
+03-15 20:21:27 INFO Program - topmusic-updater started.
+03-15 20:21:27 INFO UpdateWorker - TopMusic.exe updated successfully.
+03-15 20:21:27 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:21:48 INFO UpdateWorker - downloading TopMusic_update_1.1.0.0.zip for update...
+03-15 20:22:51 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:23:21 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:23:53 INFO Program - topmusic-updater started.
+03-15 20:23:53 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:23:58 INFO UpdateWorker - downloading TopMusic_update_1.1.0.0.zip for update...
+03-15 20:24:29 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:24:59 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:25:42 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:26:17 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:26:47 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:27:24 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:28:03 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:33:16 INFO Program - topmusic-updater started.
+03-15 20:34:44 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:34:47 INFO UpdateWorker - downloading TopMusic_update_1.1.0.0.zip for update...
+03-15 20:35:17 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:38:27 INFO Program - topmusic-updater started.
+03-15 20:38:27 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:38:28 INFO UpdateWorker - downloading TopMusic_update_1.1.0.0.zip for update...
+03-15 20:59:23 INFO Program - topmusic-updater started.
+03-15 20:59:23 INFO UpdateWorker - starting TopMusic.exe
+03-15 20:59:23 INFO UpdateWorker - TopMusic.exe started with pid=4444
+03-15 20:59:23 INFO UpdateWorker - downloading TopMusic_update_1.1.0.0.zip for update...
+03-15 21:00:23 INFO UpdateWorker - TopMusic.exe updated successfully.
+03-15 21:00:23 INFO UpdateWorker - starting TopMusic.exe
+03-15 21:00:24 INFO UpdateWorker - TopMusic.exe started with pid=1348
+03-15 21:01:54 INFO UpdateWorker - starting TopMusic.exe
+03-15 21:01:54 INFO UpdateWorker - TopMusic.exe started with pid=3856
+03-15 21:09:24 INFO UpdateWorker - downloading TopMusic_update_1.1.0.0.zip for update...
+03-15 21:09:54 INFO UpdateWorker - TopMusic.exe updated successfully.
+03-15 21:09:54 INFO UpdateWorker - starting TopMusic.exe
+03-15 21:09:54 INFO UpdateWorker - TopMusic.exe started with pid=2564
+03-15 21:12:54 INFO UpdateWorker - starting TopMusic.exe
+03-15 21:12:54 INFO UpdateWorker - TopMusic.exe started with pid=3856
+03-15 21:58:31 INFO Program - topmusic-updater started.
+03-15 21:58:35 INFO UpdateWorker - downloading TopMusic_update_1.1.0.0.zip for update...
+03-15 21:58:50 INFO UpdateWorker - TopMusic.exe updated successfully.
+03-15 22:00:08 INFO Program - topmusic-updater started.
+03-15 22:00:09 INFO UpdateWorker - downloading TopMusic_update_1.1.0.0.zip for update...
+03-15 22:00:24 INFO UpdateWorker - TopMusic.exe updated successfully.
+03-15 23:46:34 INFO Program - topmusic-updater started.
+03-15 23:46:34 INFO UpdateWorker - starting TopMusic.exe
+03-15 23:46:34 INFO UpdateWorker - TopMusic.exe started with pid=4200
+03-15 23:46:34 INFO UpdateWorker - downloading TopMusic_update_1.0.0.0.zip for update...
+03-15 23:46:35 INFO UpdateWorker - downloading TopMusicUpdate_update_1.0.0.0.zip for update...
+03-15 23:46:50 ERROR UpdateWorker - failed to copy file TopMusic.exe to update: 文件“H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusic\bin\Debug\TopMusic.exe”正由另一进程使用，因此该进程无法访问该文件。
+mscorlib
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   在 System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   在 TopMusicUpdate.UpdateWorker.CheckTopMusicHeartbeat() 位置 h:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusicUpdate\UpdateWorker.cs:行号 84
+03-15 23:46:50 INFO UpdateWorker - restart TopMusicUpdate for update
+03-15 23:46:50 DEBUG UpdateWorker - shutdown now...
+03-15 23:46:50 INFO Program - topmusic-updater exited.
+03-15 23:46:50 INFO Program - topmusic-updater started.
+03-15 23:46:50 ERROR UpdateWorker - failed to copy file TopMusic.exe to update: 文件“H:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusic\bin\Debug\TopMusic.exe”正由另一进程使用，因此该进程无法访问该文件。
+mscorlib
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   在 System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   在 TopMusicUpdate.UpdateWorker.CheckTopMusicHeartbeat()
+03-15 23:46:50 INFO UpdateWorker - downloading TopMusic_update_1.0.0.0.zip for update...
+03-15 23:47:05 INFO UpdateWorker - TopMusic.exe updated successfully.
+03-15 23:47:05 INFO UpdateWorker - starting TopMusic.exe
+03-15 23:47:05 INFO UpdateWorker - TopMusic.exe started with pid=7904
+03-16 00:28:10 INFO UpdateWorker - starting TopMusic.exe
+03-16 00:28:11 INFO UpdateWorker - TopMusic.exe started with pid=7444
+03-16 00:28:26 INFO Program - topmusic-updater started.
+03-16 00:28:38 INFO Program - topmusic-updater started.
+03-16 00:29:49 INFO Program - topmusic-updater started.
+03-16 00:29:49 INFO UpdateWorker - starting TopMusic.exe
+03-16 00:29:49 INFO UpdateWorker - TopMusic.exe started with pid=2640
+03-16 00:31:31 INFO Program - topmusic-updater started.
+03-16 00:31:31 INFO UpdateWorker - starting TopMusic.exe
+03-16 00:31:31 INFO UpdateWorker - TopMusic.exe started with pid=9044
+03-16 00:31:41 ERROR HttpUtil - WebException while get from http://rpcbeta.networkbench.com/liaoxj/updates/config.xml, exception status: Timeout:操作超时
+03-16 00:32:04 INFO Program - topmusic-updater started.
+03-16 00:32:04 INFO UpdateWorker - starting TopMusic.exe
+03-16 00:32:04 INFO UpdateWorker - TopMusic.exe started with pid=5484
+03-16 13:40:06 INFO Program - topmusic-updater started.
+03-16 13:40:06 INFO UpdateWorker - TopMusic.exe started with pid=16608
+03-16 13:40:31 INFO Program - topmusic-updater started.
+03-16 13:40:31 INFO UpdateWorker - starting TopMusic.exe
+03-16 13:40:31 INFO UpdateWorker - TopMusic.exe started with pid=13444
+03-16 13:40:47 INFO UpdateWorker - starting TopMusic.exe
+03-16 13:40:47 INFO UpdateWorker - TopMusic.exe started with pid=13652
+03-16 13:41:03 INFO Program - topmusic-updater started.
+03-16 13:42:47 INFO UpdateWorker - starting TopMusic.exe
+03-16 13:42:47 INFO UpdateWorker - TopMusic.exe started with pid=8868
+03-16 13:43:03 INFO Program - topmusic-updater started.
+03-16 13:43:33 INFO UpdateWorker - starting TopMusic.exe
+03-16 13:43:33 INFO UpdateWorker - TopMusic.exe started with pid=17796
+03-16 13:44:03 INFO Program - topmusic-updater started.
+03-16 13:44:03 INFO UpdateWorker - starting TopMusic.exe
+03-16 13:44:03 INFO UpdateWorker - TopMusic.exe started with pid=19040
+03-16 13:44:19 INFO Program - topmusic-updater started.
+03-16 13:49:16 INFO Program - topmusic-updater started.
+03-16 13:49:16 INFO UpdateWorker - starting TopMusic.exe
+03-16 13:49:16 INFO UpdateWorker - TopMusic.exe started with pid=14964
+03-16 13:49:32 INFO Program - topmusic-updater started.
+03-16 13:50:02 INFO Program - topmusic-updater started.
+03-16 13:50:17 INFO Program - topmusic-updater started.
+03-16 13:51:41 INFO Program - topmusic-updater started.
+03-16 13:51:41 INFO UpdateWorker - starting TopMusic.exe
+03-16 13:51:41 INFO UpdateWorker - TopMusic.exe started with pid=18988
+03-16 13:52:11 INFO UpdateWorker - starting TopMusic.exe
+03-16 13:52:11 INFO UpdateWorker - TopMusic.exe started with pid=23116
+03-16 15:27:09 INFO Program - topmusic-updater started.
+03-16 15:27:09 INFO UpdateWorker - starting TopMusic.exe
+03-16 15:27:09 INFO UpdateWorker - TopMusic.exe started with pid=21768
+03-16 17:32:40 INFO Program - topmusic-updater started.
+03-16 17:36:52 INFO Program - topmusic-updater started.
+03-16 17:36:52 INFO UpdateWorker - starting TopMusic.exe
+03-16 17:36:52 INFO UpdateWorker - TopMusic.exe started with pid=21596
+03-16 17:37:08 INFO Program - topmusic-updater started.
+03-16 17:57:21 ERROR HttpUtil - WebException while get from http://rpcbeta.networkbench.com/liaoxj/updates/config.xml, exception status: Timeout:操作超时
+03-16 18:17:31 ERROR HttpUtil - WebException while get from http://rpcbeta.networkbench.com/liaoxj/updates/config.xml, exception status: Timeout:操作超时
+03-16 19:37:43 ERROR HttpUtil - WebException while get from http://rpcbeta.networkbench.com/liaoxj/updates/config.xml, exception status: Timeout:操作超时
+03-16 19:47:55 ERROR HttpUtil - WebException while get from http://rpcbeta.networkbench.com/liaoxj/updates/config.xml, exception status: Timeout:操作超时
+03-16 21:13:15 INFO UpdateWorker - starting TopMusic.exe
+03-16 21:13:15 INFO UpdateWorker - TopMusic.exe started with pid=17796

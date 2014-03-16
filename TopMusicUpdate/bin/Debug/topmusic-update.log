@@ -1,0 +1,12 @@
+03-15 15:49:22 INFO Program - topmusic-updater started.
+03-15 15:51:08 INFO Program - topmusic-updater started.
+03-15 15:51:09 ERROR HttpUtil - WebException while get from http://rpcbeta.networkbench.com/liaoxj/updates/config.xml, exception status: ProtocolError:远程服务器返回错误: (404) 未找到。
+03-15 15:51:43 INFO Program - topmusic-updater started.
+03-15 15:51:43 ERROR HttpUtil - WebException while get from http://rpcbeta.networkbench.com/liaoxj/updates/config.xml, exception status: ProtocolError:远程服务器返回错误: (404) 未找到。
+System
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TopMusicUpdate.HttpUtil.Get(String url, Encoding encoding) 位置 h:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusicUpdate\HttpUtil.cs:行号 27
+03-15 15:51:43 ERROR HttpUtil - WebException while get from http://rpcbeta.networkbench.com/liaoxj/updates/config.xml, exception status: ProtocolError:远程服务器返回错误: (404) 未找到。
+System
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 TopMusicUpdate.HttpUtil.Get(String url, Encoding encoding) 位置 h:\Source\dotnet\WebBrowserEx\WebBrowserEx_v2.0\TopMusicUpdate\HttpUtil.cs:行号 27

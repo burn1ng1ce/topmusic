@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBrowserEx", "WebBrowserEx\WebBrowserEx.csproj", "{B90B6537-8829-4CF9-B4D6-51A6D9F27DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopMusic", "TopMusic\TopMusic.csproj", "{7EF79D70-134D-49B1-9C7E-031BBD56C69D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopMusicUpdate", "TopMusicUpdate\TopMusicUpdate.csproj", "{E8D5B3A5-9A51-4CF3-A6AB-A2E02ED61962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90B6537-8829-4CF9-B4D6-51A6D9F27DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90B6537-8829-4CF9-B4D6-51A6D9F27DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90B6537-8829-4CF9-B4D6-51A6D9F27DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90B6537-8829-4CF9-B4D6-51A6D9F27DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF79D70-134D-49B1-9C7E-031BBD56C69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF79D70-134D-49B1-9C7E-031BBD56C69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF79D70-134D-49B1-9C7E-031BBD56C69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF79D70-134D-49B1-9C7E-031BBD56C69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D5B3A5-9A51-4CF3-A6AB-A2E02ED61962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D5B3A5-9A51-4CF3-A6AB-A2E02ED61962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D5B3A5-9A51-4CF3-A6AB-A2E02ED61962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D5B3A5-9A51-4CF3-A6AB-A2E02ED61962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
